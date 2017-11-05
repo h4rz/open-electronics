@@ -90,6 +90,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Khan Academy/electrical-engineering](https://www.khanacademy.org/science/electrical-engineering) - Learn about electricity, circuit theory, and introductory electronics.
 - [MAKE Presents](https://www.youtube.com/playlist?list=PL970BF3F6D77B12E8) - An in-depth look inside electronics and what makes it work.
 - [Patrick Hood-Daniel](https://www.youtube.com/user/anajonesr) - CNC, automated fabrication, electronics and much more.
+- [PyroEDU](http://www.pyroelectro.com/edu/) - Learn to build your own electronics with online courses.
 
 ## Websites
 
@@ -113,12 +114,14 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [MicroDigitalEd](http://www.microdigitaled.com/) - All about Microcontrollers and Microprocessors.
 - [MySensors](https://www.mysensors.org/) - An open source hardware and software community focusing on DIY, Home automation and Internet of Things.
 - [PighiXXX](http://www.pighixxx.com/test/) - This website is dedicated to all lovers of electronics and programming.
+- [Pololu](https://www.pololu.com/blog) - Robotics and Electronics
 - [Predictable Designs](http://predictabledesigns.com/teblog/) - Helping entrepreneurs, startups, makers, engineers, & small companies develop electronic hardware products.
 - [RobotShop](http://www.robotshop.com/letsmakerobots/) - Let's Make Robots
 - [SparkFun](https://learn.sparkfun.com/) - SparkFun is an online retail store that sells the bits and pieces to make your electronics projects possible. SparkFun also offers classes and online tutorials to help educate individuals in the wonderful world of embedded electronics.
 - [Spinning Numbers](http://spinningnumbers.org/) - Learn the concepts of electrical engineering.
 - [Technoblogy](http://www.technoblogy.com/) - Arduino and AVR projects
 - [Tindle](https://www.tindie.com/) - Buy awesome things directly from makers.
+- [Williamson Labs](http://www.williamson-labs.com/) - Electronics Made Easy.
 
 ## Miscellaneous
 - [The History of Electronics](http://www.circuitstoday.com/wp-content/uploads/2012/03/History-of-Electronics.jpg)
